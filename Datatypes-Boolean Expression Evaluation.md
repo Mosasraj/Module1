@@ -33,4 +33,4 @@ c: 2
 d: 9
 ```
 ## Result
-Thus the output 
+Thus the given program is verified and output executed sucessfully
