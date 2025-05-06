@@ -22,7 +22,9 @@ else:
 ```
 
 ## Output
+```
 8
 EVEN
+```
 ## Result
 Thus the given program is verified and executed sucessfully
