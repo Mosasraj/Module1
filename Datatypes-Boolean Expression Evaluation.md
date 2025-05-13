@@ -26,11 +26,7 @@ print("c:", c)
 print("d:", d)
 ```
 ## Output
-```
-a is False
-b is True
-c: 2
-d: 9
-```
+![WhatsApp Image 2025-05-13 at 14 06 02_c66e7fdd](https://github.com/user-attachments/assets/271d3399-afd1-4747-9acc-f6998b4b2e99)
+
 ## Result
 Thus the given program is verified and output executed sucessfully
